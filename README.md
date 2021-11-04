@@ -12,4 +12,9 @@ Criação do Layout de Site com Photoshop
 
 3) Fontes 
 
+![Sem Título-2](https://user-images.githubusercontent.com/79811173/140391126-e1e4acd5-8db6-4d86-a111-86f7e802fb4d.png)
+
+
 4) Icons 
+
+![image](https://user-images.githubusercontent.com/79811173/140393074-0cfac90c-c9f4-4ece-9f75-e8bef0e63ab8.png)
