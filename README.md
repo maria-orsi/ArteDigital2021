@@ -7,6 +7,9 @@ Criação do Layout de Site com Photoshop
 
 2) Paleta de cores 
 
+![Paleta](https://user-images.githubusercontent.com/79811173/140386877-558aaa88-33fc-4b98-b234-72c463efd772.png)
+
+
 3) Fontes 
 
 4) Icons 
